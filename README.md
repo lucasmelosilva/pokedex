@@ -1,8 +1,8 @@
 # POKEDEX
 ## Descrição
 
-Pokedex apresenta todos os 50 pokemons originais,
-este projeto é um tutorial do canal (Roger Melo)[https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg]
+Pokedex apresenta todos os 150 pokemons originais,
+este projeto é um tutorial do canal Roger Melo https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg
 
 ## Desevolvimento do projeto
 
